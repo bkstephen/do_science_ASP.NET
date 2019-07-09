@@ -1,0 +1,653 @@
+﻿'dotnet.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Verbose logs are written to:
+C:\Users\Stefanos\AppData\Local\Temp\vscode-chrome-debug.txt
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\bin\Debug\netcoreapp2.1\do_sciences_org.dll'. Symbols loaded.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\netstandard.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Hosting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Configuration.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.FileProviders.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Threading.Tasks.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Runtime.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Server.Kestrel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.IO.FileSystem.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Logging.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Server.IISIntegration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.DependencyInjection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Configuration.CommandLine.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.ComponentModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Logging.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Http.Features.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Diagnostics.DiagnosticSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Http.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.ObjectPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Razor.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Configuration.UserSecrets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Resources.ResourceManager.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.FileProviders.Physical.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.IO.FileSystem.Watcher.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.ComponentModel.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Collections.Concurrent.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.FileSystemGlobbing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Configuration.FileExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Configuration.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Runtime.InteropServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Diagnostics.Tracing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Threading.Overlapped.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Newtonsoft.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Linq.Expressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.ComponentModel.TypeConverter.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.ObjectModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Options.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Logging.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Logging.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Logging.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.HostFiltering.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.HttpOverrides.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Authentication.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Authentication.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Security.Claims.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Threading.Thread.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Configuration.Binder.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Runtime.InteropServices.RuntimeInformation.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.CookiePolicy.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.EntityFrameworkCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Identity.Stores.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Identity.UI.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Identity.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Caching.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Caching.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Authentication.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.DataProtection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.DataProtection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Cryptography.Internal.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.WebEncoders.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\System.Text.Encodings.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Identity.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Authentication.Cookies.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.RazorPages.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.StaticFiles.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.DependencyModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Reflection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.AppContext.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.IO.FileSystem.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.IO.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Runtime.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Private.Uri.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\bin\Debug\netcoreapp2.1\do_sciences_org.Views.dll'. Symbols loaded.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.Razor.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Identity.UI.Views.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Identity.UI.Views.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.SpaServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.SpaServices.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Routing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Buffers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Routing.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.ApiExplorer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Authorization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Authorization.Policy.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.TagHelpers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Razor.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.ViewFeatures.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.DataAnnotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.Formatters.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Antiforgery.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.CodeAnalysis.Razor.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Razor.Language.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.CodeAnalysis.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Mvc.Cors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Cors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Connections.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Net.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Net.Http.Headers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\System.IO.Pipelines.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\Microsoft.Win32.Registry.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Xml.XDocument.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Private.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Private.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Diagnostics.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager:Information: User profile is available. Using 'C:\Users\Stefanos\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Security.Cryptography.Algorithms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Text.RegularExpressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Reflection.Emit.ILGeneration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Reflection.Emit.Lightweight.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Reflection.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Diagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.HttpsPolicy.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.Localization.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.JsonPatch.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Collections.Specialized.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Drawing.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Collections.Immutable.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Security.Cryptography.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Security.Principal.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Runtime.Serialization.Formatters.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.FileProviders.Embedded.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Xml.ReaderWriter.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.Extensions.FileProviders.Composite.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Threading.Timer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Net.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Net.NameResolution.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Threading.ThreadPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Numerics.Vectors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\System.Runtime.CompilerServices.Unsafe.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 DEBUG http://localhost:51606/  0
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Security.Cryptography.X509Certificates.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.WebUtilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.EntityFrameworkCore.Relational.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 34.599ms 200 
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Http.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Html.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.CodeAnalysis.CSharp.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.ComponentModel.Annotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\bin\Debug\netcoreapp2.1\DatabaseAccess.dll'. Symbols loaded.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Stefanos\.nuget\packages\microsoft.aspnet.mvc\5.2.7\lib\net45\System.Web.Mvc.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Threading.Tasks.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller do_sciences_org.Controllers.HomeController (do_sciences_org).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method do_sciences_org.Controllers.HomeController.Index (do_sciences_org) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method do_sciences_org.Controllers.HomeController.Index (do_sciences_org), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6602ms.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executing ViewResult, running view Index.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.EntityFrameworkCore.SqlServer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Data.Common.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.EntityFrameworkCore.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Remotion.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Transactions.Local.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\System.Interactive.Async.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executed ViewResult - view Index executed in 215.1101ms.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action do_sciences_org.Controllers.HomeController.Index (do_sciences_org) in 236.2231ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 618.2079ms 200 text/html; charset=utf-8
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/bootstrap.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/ckeditor.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/site.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner2.svg  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/adapters/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 33.3707ms 404 
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner1.svg  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner2.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner2.svg'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner1.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner1.svg'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 18.9441ms 200 image/svg+xml
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 14.7687ms 200 image/svg+xml
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/jquery/dist/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/bootstrap/dist/js/bootstrap.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\site.css'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/adapters/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/bootstrap.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\bootstrap.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 96.6513ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\jquery\dist\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 69.8911ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 53.9712ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 93.7572ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 40.9654ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\js\site.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner3.svg  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 30.1907ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner3.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner3.svg'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/ckeditor.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\ckeditor.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 24.0108ms 200 image/svg+xml
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 141.7925ms 200 application/javascript
+Error: jQuery should be loaded before CKEditor jQuery adapter.
+    at c:\users\stefanos\onedrive\1_msc_computer_science\web page projects\dosciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js:5:46
+    at c:\users\stefanos\onedrive\1_msc_computer_science\web page projects\dosciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js:10:431
+ReferenceError: $ is not defined
+    at https://localhost:44342/:12:9
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Identity/Account/Login  
+Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker:Information: Route matched with {page = "/Account/Login", area = "Identity", action = "", controller = ""}. Executing action /Account/Login
+Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker:Information: Executing handler method OnGetAsync - ModelState is Valid
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler:Information: AuthenticationScheme: Identity.External signed out.
+Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker:Information: Executed action /Account/Login in 88.8391ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 124.8596ms 200 text/html; charset=utf-8
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/Identity/Account/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Identity/Account/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/adapters/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/ckeditor.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 6.2501ms 404 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/site.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/bootstrap.css  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js'. Physical path: 'N/A'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\site.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 29.6945ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/jquery/dist/jquery.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\js\site.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/adapters/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 44.1061ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 64.7518ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/bootstrap.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\bootstrap.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Identity/lib/jquery-validation/dist/jquery.validate.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Identity/Account/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 60.2567ms 200 text/css
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/Identity/Account/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/Identity/lib/jquery-validation/dist/jquery.validate.js'. Physical path: 'N/A'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 17.6804ms 404 
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/ckeditor.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\ckeditor.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 35.9815ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\jquery\dist\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 122.8548ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 114.9126ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 34.9349ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/bootstrap/dist/js/bootstrap.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 110.2973ms 200 application/javascript
+Error: jQuery should be loaded before CKEditor jQuery adapter.
+    at https://localhost:44342/ckeditor/adapters/jquery.js:5:45
+    at https://localhost:44342/ckeditor/adapters/jquery.js:10:430
+ReferenceError: $ is not defined
+    at https://localhost:44342/Identity/Account/Login:12:9
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 POST http://localhost:44342/Identity/Account/Login application/x-www-form-urlencoded 281
+Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker:Information: Route matched with {page = "/Account/Login", area = "Identity", action = "", controller = ""}. Executing action /Account/Login
+Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker:Information: Executing handler method OnPostAsync - ModelState is Valid
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Linq.Queryable.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Reflection.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.1.11-servicing-32099 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\System.Data.SqlClient.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\System.Security.Principal.Windows.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\System.Text.Encoding.CodePages.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The thread 0x251c has exited with code 0 (0x0).
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (21ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[AccessFailedCount], [u].[ConcurrencyStamp], [u].[Email], [u].[EmailConfirmed], [u].[LockoutEnabled], [u].[LockoutEnd], [u].[NormalizedEmail], [u].[NormalizedUserName], [u].[PasswordHash], [u].[PhoneNumber], [u].[PhoneNumberConfirmed], [u].[SecurityStamp], [u].[TwoFactorEnabled], [u].[UserName]
+FROM [AspNetUsers] AS [u]
+WHERE [u].[NormalizedUserName] = @__normalizedUserName_0
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.1.11\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT [uc].[Id], [uc].[ClaimType], [uc].[ClaimValue], [uc].[UserId]
+FROM [AspNetUserClaims] AS [uc]
+WHERE [uc].[UserId] = @__user_Id_0
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler:Information: AuthenticationScheme: Identity.Application signed in.
+do_sciences_org.Areas.Identity.Pages.Account.LoginModel:Information: User logged in.
+Microsoft.AspNetCore.Mvc.Infrastructure.LocalRedirectResultExecutor:Information: Executing LocalRedirectResult, redirecting to /.
+Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker:Information: Executed action /Account/Login in 2454.6532ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 2462.4359ms 302 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/  
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller do_sciences_org.Controllers.HomeController (do_sciences_org).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method do_sciences_org.Controllers.HomeController.Index (do_sciences_org) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method do_sciences_org.Controllers.HomeController.Index (do_sciences_org), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.1175ms.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executing ViewResult, running view Index.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executed ViewResult - view Index executed in 7.1857ms.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action do_sciences_org.Controllers.HomeController.Index (do_sciences_org) in 13.4102ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 23.8333ms 200 text/html; charset=utf-8
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/bootstrap.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/site.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/ckeditor.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner2.svg  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 10.1645ms 404 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner1.svg  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\site.css'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner2.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner2.svg'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 24.4564ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner1.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner1.svg'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/bootstrap.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\bootstrap.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 35.7866ms 200 image/svg+xml
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/bootstrap/dist/js/bootstrap.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 40.6321ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 25.494ms 200 image/svg+xml
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 21.4545ms 404 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/adapters/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/jquery/dist/jquery.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/adapters/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 39.4338ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 91.804ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/ckeditor.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\ckeditor.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 102.6567ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\js\site.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 25.1906ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\jquery\dist\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 89.5351ms 200 application/javascript
+Error: jQuery should be loaded before CKEditor jQuery adapter.
+    at https://localhost:44342/ckeditor/adapters/jquery.js:5:45
+    at https://localhost:44342/ckeditor/adapters/jquery.js:10:430
+ReferenceError: $ is not defined
+    at https://localhost:44342/:12:9
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner3.svg  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner3.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner3.svg'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 4.7934ms 200 image/svg+xml
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Posts  
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "Index", controller = "Posts", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(DatabaseAccess.PostMapDB) on controller do_sciences_org.Controllers.PostsController (do_sciences_org).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method do_sciences_org.Controllers.PostsController.Index (do_sciences_org) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method do_sciences_org.Controllers.PostsController.Index (do_sciences_org), returned result Microsoft.AspNetCore.Mvc.ViewResult in 8.1344ms.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executing ViewResult, running view Index.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executed ViewResult - view Index executed in 12.7579ms.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action do_sciences_org.Controllers.PostsController.Index (do_sciences_org) in 32.0358ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 42.8118ms 200 text/html; charset=utf-8
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/ckeditor.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/bootstrap.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/site.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 6.629ms 404 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/adapters/jquery.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\site.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 18.0822ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/adapters/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 26.5747ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/bootstrap.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\bootstrap.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 34.3244ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/ckeditor.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\ckeditor.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 58.259ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 2.265ms 404 
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/scripts/tinymce/tinymce.min.js]
+Error: jQuery should be loaded before CKEditor jQuery adapter.
+    at c:\users\stefanos\onedrive\1_msc_computer_science\web page projects\dosciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js:5:46
+    at c:\users\stefanos\onedrive\1_msc_computer_science\web page projects\dosciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js:10:431
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/jquery/dist/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/bootstrap/dist/js/bootstrap.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\js\site.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 11.2954ms 200 application/javascript
+ReferenceError: $ is not defined
+    at https://localhost:44342/Posts:12:9
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 19.3343ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\jquery\dist\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 31.8554ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 POST http://localhost:44342/Posts application/x-www-form-urlencoded 240
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "Index", controller = "Posts", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(System.String) on controller do_sciences_org.Controllers.PostsController (do_sciences_org).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method do_sciences_org.Controllers.PostsController.Index (do_sciences_org) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method do_sciences_org.Controllers.PostsController.Index (do_sciences_org), returned result Microsoft.AspNetCore.Mvc.RedirectToActionResult in 0.4952ms.
+Microsoft.AspNetCore.Mvc.RedirectToActionResult:Information: Executing RedirectResult, redirecting to /Posts/seePost?submit=4010.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action do_sciences_org.Controllers.PostsController.Index (do_sciences_org) in 10.537ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 16.6286ms 302 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Posts/seePost?submit=4010  
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "seePost", controller = "Posts", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult seePost(Int32, DatabaseAccess.CommentsDB) on controller do_sciences_org.Controllers.PostsController (do_sciences_org).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method do_sciences_org.Controllers.PostsController.seePost (do_sciences_org) - Validation state: Valid
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.11\Microsoft.CSharp.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method do_sciences_org.Controllers.PostsController.seePost (do_sciences_org), returned result Microsoft.AspNetCore.Mvc.ViewResult in 47.4542ms.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executing ViewResult, running view seePost.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executed ViewResult - view seePost executed in 40.0169ms.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action do_sciences_org.Controllers.PostsController.seePost (do_sciences_org) in 94.4597ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 101.4363ms 200 text/html; charset=utf-8
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Posts/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/bootstrap.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/site.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/adapters/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/ckeditor.js  
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/Posts/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 11.8448ms 404 
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/adapters/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\site.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 21.5189ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 27.0848ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/bootstrap.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\bootstrap.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 37.6137ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Posts/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 7.0173ms 404 
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/Posts/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/ckeditor.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\ckeditor.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 71.6061ms 200 application/javascript
+Error: jQuery should be loaded before CKEditor jQuery adapter.
+    at https://localhost:44342/ckeditor/adapters/jquery.js:5:45
+    at https://localhost:44342/ckeditor/adapters/jquery.js:10:430
+ReferenceError: $ is not defined
+    at https://localhost:44342/Posts/seePost?submit=4010:12:9
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/bootstrap/dist/js/bootstrap.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/jquery/dist/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\js\site.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 13.2571ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 17.9897ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\jquery\dist\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 28.8928ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/config.js?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/config.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\config.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 6.7557ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/skins/moono-lisa/editor.css?t=J5S8  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/lang/en-gb.js?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/skins/moono-lisa/editor.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\skins\moono-lisa\editor.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 11.2257ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/lang/en-gb.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\lang\en-gb.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 16.898ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/styles.js?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/styles.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\styles.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 6.2329ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/tableselection/styles/tableselection.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/scayt/dialogs/dialog.css?t=J5S8  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css?t=J5S8  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/tableselection/styles/tableselection.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\tableselection\styles\tableselection.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 10.1273ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\wsc\skins\moono-lisa\wsc.css'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/scayt/dialogs/dialog.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\scayt\dialogs\dialog.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 15.207ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 17.1887ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\scayt\skins\moono-lisa\scayt.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 21.1588ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/contents.css?t=J5S8  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/tableselection/styles/tableselection.css  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/contents.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\contents.css'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/tableselection/styles/tableselection.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\tableselection\styles\tableselection.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 6.7909ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 8.9926ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/skins/moono-lisa/icons.png?t=64749bb245  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/skins/moono-lisa/icons.png'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\skins\moono-lisa\icons.png'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 4.4644ms 200 image/png
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Posts/createpost  
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "createPost", controller = "Posts", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult createPost() on controller do_sciences_org.Controllers.PostsController (do_sciences_org).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method do_sciences_org.Controllers.PostsController.createPost (do_sciences_org) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method do_sciences_org.Controllers.PostsController.createPost (do_sciences_org), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.2708ms.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executing ViewResult, running view createPost.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executed ViewResult - view createPost executed in 10.3086ms.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action do_sciences_org.Controllers.PostsController.createPost (do_sciences_org) in 16.4573ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 23.1306ms 200 text/html; charset=utf-8
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/Posts/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Posts/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/adapters/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/ckeditor.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 6.6513ms 404 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/jquery/dist/jquery.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/adapters/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/site.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 15.7549ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/bootstrap.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/bootstrap/dist/js/bootstrap.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Posts/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\site.css'
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/Posts/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 9.0949ms 404 
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\js\site.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 43.9734ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 47.894ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/bootstrap.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\bootstrap.css'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\jquery\dist\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 66.8165ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 67.9359ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 59.7287ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/ckeditor.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\ckeditor.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 88.9337ms 200 application/javascript
+Error: jQuery should be loaded before CKEditor jQuery adapter.
+    at c:\users\stefanos\onedrive\1_msc_computer_science\web page projects\dosciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js:5:46
+    at c:\users\stefanos\onedrive\1_msc_computer_science\web page projects\dosciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js:10:431
+ReferenceError: $ is not defined
+    at https://localhost:44342/Posts/createpost:12:9
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/config.js?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/config.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\config.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 11.9658ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/lang/en-gb.js?t=J5S8  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/skins/moono-lisa/editor.css?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/lang/en-gb.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\lang\en-gb.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 7.1955ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/skins/moono-lisa/editor.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\skins\moono-lisa\editor.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 10.398ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/styles.js?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/styles.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\styles.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 4.9896ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/tableselection/styles/tableselection.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=J5S8  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css?t=J5S8  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/scayt/dialogs/dialog.css?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/tableselection/styles/tableselection.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\tableselection\styles\tableselection.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 9.2287ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\scayt\skins\moono-lisa\scayt.css'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/scayt/dialogs/dialog.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\scayt\dialogs\dialog.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 13.5222ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\wsc\skins\moono-lisa\wsc.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 14.2063ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 17.4547ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/skins/moono-lisa/icons.png?t=64749bb245  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/skins/moono-lisa/icons.png'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\skins\moono-lisa\icons.png'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 4.8293ms 200 image/png
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/plugins/tableselection/styles/tableselection.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/contents.css?t=J5S8  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/contents.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\contents.css'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/plugins/tableselection/styles/tableselection.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\plugins\tableselection\styles\tableselection.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 9.8524ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 12.316ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Home/About  
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "About", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult About() on controller do_sciences_org.Controllers.HomeController (do_sciences_org).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method do_sciences_org.Controllers.HomeController.About (do_sciences_org) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method do_sciences_org.Controllers.HomeController.About (do_sciences_org), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.3526ms.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executing ViewResult, running view About.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executed ViewResult - view About executed in 7.4052ms.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action do_sciences_org.Controllers.HomeController.About (do_sciences_org) in 12.5112ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 18.1231ms 200 text/html; charset=utf-8
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/Home/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Home/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 2.7674ms 404 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/bootstrap.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/ckeditor.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/adapters/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/bootstrap/dist/js/bootstrap.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/jquery/dist/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/site.css  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\js\site.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/Home/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/adapters/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js'
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/Home/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 53.4222ms 404 
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\site.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 91.6801ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 112.3198ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/bootstrap.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\bootstrap.css'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\jquery\dist\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 125.5014ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 126.5944ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 93.0545ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 104.0234ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/ckeditor.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\ckeditor.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 145.3607ms 200 application/javascript
+Error: jQuery should be loaded before CKEditor jQuery adapter.
+    at https://localhost:44342/ckeditor/adapters/jquery.js:5:45
+    at https://localhost:44342/ckeditor/adapters/jquery.js:10:430
+ReferenceError: $ is not defined
+    at https://localhost:44342/Home/About:12:9
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/  
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller do_sciences_org.Controllers.HomeController (do_sciences_org).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method do_sciences_org.Controllers.HomeController.Index (do_sciences_org) - Validation state: Valid
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method do_sciences_org.Controllers.HomeController.Index (do_sciences_org), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0181ms.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executing ViewResult, running view Index.
+Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor:Information: Executed ViewResult - view Index executed in 2.4627ms.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action do_sciences_org.Controllers.HomeController.Index (do_sciences_org) in 7.8196ms
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 14.6359ms 200 text/html; charset=utf-8
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/scripts/tinymce/tinymce.min.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/adapters/jquery.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 5.3149ms 404 
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner2.svg  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/bootstrap.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner1.svg  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/css/site.css  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/ckeditor/ckeditor.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/adapters/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner1.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner1.svg'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner2.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner2.svg'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 21.9513ms 200 image/svg+xml
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/bootstrap/dist/js/bootstrap.js  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/lib/jquery/dist/jquery.js  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/bootstrap.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\bootstrap.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 35.6633ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 47.0126ms 200 text/css
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 48.9619ms 200 image/svg+xml
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\css\site.css'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 67.0917ms 200 text/css
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 54.9466ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\lib\jquery\dist\jquery.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 73.2209ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/images/banner3.svg  
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\js\site.js'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/ckeditor/ckeditor.js'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\ckeditor\ckeditor.js'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 25.1831ms 200 application/javascript
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 119.6567ms 200 application/javascript
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware:Information: Sending file. Request path: '/images/banner3.svg'. Physical path: 'C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\do_sciences_org\wwwroot\images\banner3.svg'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 16.3258ms 200 image/svg+xml
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44342/scripts/tinymce/tinymce.min.js  
+Failed to load resource: the server responded with a status of 404 () [https://localhost:44342/scripts/tinymce/tinymce.min.js]
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 3.0014ms 404 
+Error: jQuery should be loaded before CKEditor jQuery adapter.
+    at c:\users\stefanos\onedrive\1_msc_computer_science\web page projects\dosciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js:5:46
+    at c:\users\stefanos\onedrive\1_msc_computer_science\web page projects\dosciences_org_solution\do_sciences_org\wwwroot\ckeditor\adapters\jquery.js:10:431
+ReferenceError: $ is not defined
+    at https://localhost:44342/:12:9
+The thread 0x2cc8 has exited with code 0 (0x0).
+The thread 0x295c has exited with code 0 (0x0).
+The thread 0x3664 has exited with code 0 (0x0).
+The thread 0x8dc has exited with code 0 (0x0).
+The thread 0x2d54 has exited with code 0 (0x0).
+The thread 0x5bb8 has exited with code 0 (0x0).
+The thread 0x70c0 has exited with code 0 (0x0).
+The thread 0x3a24 has exited with code 0 (0x0).
+The thread 0x282c has exited with code 0 (0x0).
+The thread 0x3390 has exited with code 0 (0x0).
+The thread 0x10f0 has exited with code 0 (0x0).
+The thread 0x7330 has exited with code 0 (0x0).
+The thread 0x649c has exited with code 0 (0x0).
+The thread 0x4410 has exited with code 0 (0x0).
+The thread 0x1bf0 has exited with code 0 (0x0).
+The thread 0x59c4 has exited with code 0 (0x0).
+The thread 0x6fd8 has exited with code 0 (0x0).
+The thread 0x1464 has exited with code 0 (0x0).
+The thread 0x6f28 has exited with code 0 (0x0).
+The thread 0x4190 has exited with code 0 (0x0).
+The thread 0x18bc has exited with code 0 (0x0).
+The thread 0x52cc has exited with code 0 (0x0).
+The thread 0x1028 has exited with code 0 (0x0).
+The thread 0x1fc4 has exited with code 0 (0x0).
+The thread 0xb04 has exited with code 0 (0x0).
+The thread 0x6090 has exited with code 0 (0x0).
+The program '' has exited with code -1 (0xffffffff).
+The program '[18604] dotnet.exe' has exited with code -1 (0xffffffff).
