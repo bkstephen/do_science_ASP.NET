@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "createPost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create Post</h2>
+
+@if (SignInManager.IsSignedIn(User))
+{
+    
+    <div padding-bottom:25px">
+
+        <form method="post">
+            <label>Enter Name of Mathematical Theory:</label><br/>
+            <input class="form-control" type="text" id="postName" TextMode="Multiline" name="postName"/><br/>
+            <textarea runat="server" id="textBox" TextMode="Multiline" name="textBox"></textarea>
+            <script>
+                    CKEDITOR.replace("textBox");
+            </script>            
+            <input type="hidden" value="@UserManager.GetUserName(User)" name="user" />
+            <input class="btn btn-success" type="submit" runat="server" name="commentSubmit">
+        </form>
+
+    </div>
+
+}
+else
+{
+
+    <h2>Please Sign in</h2><br /><br />
+    <div class="btn btn-link">
+        <a asp-area="Identity" asp-page="/Account/Login"> Login</a>
+    </div>
+    <div class="btn btn-link">
+        <a asp-area="Identity" asp-page="/Account/Register">Register </a>
+    </div>
+
+}
+

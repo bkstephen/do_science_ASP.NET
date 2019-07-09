@@ -1,0 +1,24 @@
+﻿@model IEnumerable<DatabaseAccess.PostMapDB>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "editPost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit Post</h2>
+
+@foreach (DatabaseAccess.PostMapDB i in Model)
+{
+    @if (UserManager.GetUserName(User) == i.User) { 
+        <form method="post">
+            <textarea runat="server" id="textBox" TextMode="Multiline" name="textBox">@Html.Raw(i.InitText)</textarea>
+            <script>
+                CKEDITOR.replace("textBox");
+            </script>
+            <input type="hidden" value="@i.Id" name="submit" runat="server" />
+            <button class="btn btn-success" type="submit" runat="server" id="btnSubmit" value="" name="btnSubmit">Save</button>
+        </form>
+    }
+}

@@ -1,0 +1,26 @@
+﻿
+@model IEnumerable<DatabaseAccess.PostMapDB>;
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+@foreach (DatabaseAccess.PostMapDB p in Model)
+{
+
+    <div style="max-height:250px; overflow:auto" class="card border-success mb-3">
+        <div class="card-header">
+            @p.PostName | @p.Date
+            <form method="POST">
+                <button class="btn btn-link" name="subButton" value="@p.Id" type="submit">See Post</button>
+            </form>
+        </div>
+        <div style="padding:15px"> @Html.Raw(p.InitText) </div>
+    </div> <br style="padding-bottom:20px" />
+
+}
+

@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Math Proofs";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+<h2>Math Proofs</h2>
+
+@ViewData["testText"]
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+    @UserManager.GetUserName(User)<br />
+
+    <div style="align-content:center;">
+        <form method="post" action="">
+            <label> Text </label>
+            <input style="text-wrap:avoid; height:150px; width:750px" type="text" name="PostText" value="" />
+            <br />
+            <input type="submit" name="submit" value="Submit" />
+        </form>
+    </div>
+}
+else
+{
+    <p style="font-size:35px">Error, please log in</p>
+}

@@ -1,0 +1,82 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@model IEnumerable<DatabaseAccess.CommentsDB>
+
+@{
+    DatabaseAccess.PostMapDB post = new DatabaseAccess.PostMapDB();
+    IEnumerable<DatabaseAccess.PostMapDB> postDefault = post.getPostMapById(ViewBag.PostId);
+    ViewData["Title"] = "Post";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@foreach (DatabaseAccess.PostMapDB i in postDefault)
+{
+    <div style="overflow:auto" class="card text-white bg-success mb-auto" runat="server">
+        <div class="card-header">
+            @i.PostName  |  @i.User  |  @i.Date
+            <div>
+                @if (UserManager.GetUserName(User) == i.User)
+                {
+                    <form method="post" runat="server">
+                        <input type="hidden" value="@i.Id" name="submit" id="submit" />
+                        <button class="btn btn-link" type="submit" runat="server" value="editPost" id="btnSubmit" name="btnSubmit">Edit</button>
+                        <button class="btn btn-link" type="submit" runat="server" value="deletePost" id="btnSubmit" name="btnSubmit">Delete</button>
+                    </form>
+                }
+            </div>
+        </div>
+        <div class="card-body" style="padding:15px" runat="server"> @Html.Raw(@i.InitText)   </div>
+    </div> <br style="padding-bottom:20px" />
+
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <button class="btn btn-success" style="padding:5px" onclick="myFunction()">Help with this math theory</button><br /><br />
+        <div id="editorDiv" style="display:none; padding-bottom:25px">
+
+            <form method="post">
+                <textarea runat="server" id="textBox" TextMode="Multiline" name="textBox"></textarea>
+                <script>
+                    CKEDITOR.replace("textBox");
+                </script>
+                <input type="hidden" value="@i.Id" name="submit" runat="server" />
+                <input type="hidden" value="@UserManager.GetUserName(User)" runat="server" name="user" />
+                <button class="btn btn-success" type="submit" runat="server" id="btnSubmit" value="" name="btnSubmit">Add Comment</button>
+            </form>
+
+        </div>}
+    else
+    { <div class="btn btn-link">
+            <a asp-area="Identity" asp-page="/Account/Login"> Login</a>
+        </div>
+        <div class="btn btn-link">
+            <a asp-area="Identity" asp-page="/Account/Register">Register </a>
+        </div><br /><br />}
+}
+
+@foreach (DatabaseAccess.CommentsDB p in Model)
+{
+
+<div style="max-height:250px; overflow:auto" class="card text-white bg-secondary mb-auto">
+
+    <div class="card-header">
+        @p.User | @p.Date
+        <div>
+            @if (UserManager.GetUserName(User) == p.User)
+            {
+                <form method="post" runat="server">
+                    <input type="hidden" value="@p.Id" id="commentId" name="commentId" runat="server" />
+                    <button class="btn btn-link" type="submit" runat="server" value="editComment" id="btnSubmit" name="btnSubmit">Edit</button>
+                    <button class="btn btn-link" type="submit" runat="server" value="deleteComment" id="btnSubmit" name="btnSubmit">Delete</button>
+                </form>
+            }
+        </div>
+    </div>
+    <div class="card-body" style="padding:15px"> @Html.Raw(p.Text)    </div>
+</div> <br style="padding-bottom:20px" />
+
+
+}
+
+
