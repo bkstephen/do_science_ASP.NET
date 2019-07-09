@@ -1,0 +1,14 @@
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\bin\Debug\netcoreapp2.1\DatabaseAccess.deps.json
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\bin\Debug\netcoreapp2.1\DatabaseAccess.runtimeconfig.json
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\bin\Debug\netcoreapp2.1\DatabaseAccess.runtimeconfig.dev.json
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\bin\Debug\netcoreapp2.1\DatabaseAccess.dll
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\bin\Debug\netcoreapp2.1\DatabaseAccess.pdb
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.RazorAssemblyInfo.cache
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.RazorAssemblyInfo.cs
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.AssemblyInfoInputs.cache
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.AssemblyInfo.cs
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.RazorTargetAssemblyInfo.cache
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.dll
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.pdb
+C:\Users\Stefanos\OneDrive\1_MSc_Computer_Science\Web Page Projects\doSciences_org_solution\DatabaseAccess\obj\Debug\netcoreapp2.1\DatabaseAccess.csprojAssemblyReference.cache
